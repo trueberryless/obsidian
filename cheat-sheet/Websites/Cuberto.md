@@ -1,0 +1,1 @@
+Nice website with smooth animations. The fast scroll gets clean faded out at the bottom of the website and cursor and scrollbar are very clean and could be copied.

@@ -11,11 +11,69 @@
             "id": "22aec5a59c2a8864",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "LilLabs/Notes.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
+              }
+            }
+          },
+          {
+            "id": "545ed22fe9f964e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Websites/Remember me.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95432e31bf1e2d9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Websites/Remember me.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acf4bf7d11ddd1ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Websites/Camille Mormal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c9df2fa51d064a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Websites/Remember me.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Websites/Remember me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Websites/Remember me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +178,33 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Websites/Remember me.md"
+              }
+            }
+          },
+          {
+            "id": "95c94d64dc56342e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "29353d394e3c2d94",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -138,8 +217,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85732aeeb71e7ff2",
+  "active": "2c9df2fa51d064a0",
   "lastOpenFiles": [
-    "2023-01-21.md"
+    "Websites/Camille Mormal.md",
+    "Websites/Cuberto.md",
+    "Websites/Remember me.md",
+    "Websites/KPR.md",
+    "LilLabs/Notes.canvas",
+    "LilLabs/Untitled.md",
+    "Blazor/Markdown Editor.md",
+    "Docker/docker-compose.md",
+    "Docker/docker.md",
+    "2023-01-22.md"
   ]
 }
