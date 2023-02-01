@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"c6d1ac0f3aacfa6e","x":-400,"y":-151,"width":400,"height":400,"type":"file","file":"Blazor/Markdown Editor.md"}
+		{"id":"c6d1ac0f3aacfa6e","x":-400,"y":-151,"width":400,"height":400,"color":"6","type":"file","file":"Blazor/Markdown Editor.md"},
+		{"id":"7dcee6f732b29f73","x":-650,"y":-511,"width":250,"height":228,"color":"4","type":"text","text":"ToDo:\n- Markdown Editor\n- Search Icon URI\n- Follow Cursor\n- Tastenkombinationen"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"90486c62e7235af1","fromNode":"7dcee6f732b29f73","fromSide":"bottom","toNode":"c6d1ac0f3aacfa6e","toSide":"top"}
+	]
 }
