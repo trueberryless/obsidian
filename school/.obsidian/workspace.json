@@ -30,9 +30,67 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aee3555be5a946a4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
+            "id": "744c76e9d39ad3a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SEW.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8906bb088b200fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INSY-Stoff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9176715947158a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "history/UdSSR nach dem Zweiten Weltkrieg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71f216d303df2bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "history/USA im Kalten Krieg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -98,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "history/UdSSR nach dem Zweiten Weltkrieg.md",
+                "file": "history/USA im Kalten Krieg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "history/UdSSR nach dem Zweiten Weltkrieg.md",
+                "file": "history/USA im Kalten Krieg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "history/UdSSR nach dem Zweiten Weltkrieg.md"
+                "file": "history/USA im Kalten Krieg.md"
               }
             }
           }
@@ -159,8 +217,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "423d2c1eb01c9f6e",
+  "active": "83389e3aca895f24",
   "lastOpenFiles": [
-    "history/Kalter Krieg.md"
+    "history/UdSSR nach dem Zweiten Weltkrieg.md",
+    "history/Kalter Krieg.md",
+    "history/USA im Kalten Krieg.md",
+    "SEW.md",
+    "INSY-Stoff.md"
   ]
 }

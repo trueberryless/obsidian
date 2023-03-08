@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/docker theory.md",
+                "file": "Docker/Blazor Server Application .NET with database dockerizen.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,25 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "455155b27e44d472",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "LilLabs/Notes.canvas",
-                "viewState": {
-                  "x": -200,
-                  "y": -107.24000000000001,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LilLabs/Notes.canvas",
+                "file": "Docker/Blazor Server Application .NET with database dockerizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LilLabs/Notes.canvas",
+                "file": "Docker/Blazor Server Application .NET with database dockerizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LilLabs/Notes.canvas"
+                "file": "Docker/Blazor Server Application .NET with database dockerizen.md"
               }
             }
           },
@@ -191,13 +174,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "455155b27e44d472",
+  "active": "bc4188da34815233",
   "lastOpenFiles": [
+    "https.md",
+    "Docker/Blazor Server Application .NET with database dockerizen.md",
     "Docker/docker theory.md",
-    "Docker/img/virtual_machine_2.png",
-    "Docker/container.md",
+    "Docker/img/docker_support_activate_creation.png",
     "Docker/package.md",
     "Docker/image.md",
+    "Docker/container.md",
+    "LilLabs/Notes.canvas",
+    "Docker/img/virtual_machine_2.png",
     "Docker/docker-compose.md",
     "Websites/Remember me.md",
     "SEW/C_Sharp/LINQ/Methods.md",
