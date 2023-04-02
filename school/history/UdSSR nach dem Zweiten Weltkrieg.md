@@ -1,6 +1,6 @@
 # Wirtschaftssystem
 
-- Zentralverwaltungswirtschaft - Planwirtshaft
+- Zentralverwaltungswirtschaft - Planwirtschaft
 - 5 Jahres Pläne (Wiederaufbau) - Ziele
 	- Sputnik ins Weltall
 	- Rüstungspolitik
@@ -33,3 +33,37 @@
 	- kommunistische Partei hatte überall wichtige Minister
 	- Oppositionelle aus dem Weg geräumt
 - Moskau zentrale Kontrolle
+
+# Entstalinisierung unter Chrustschow
+
+- 1953: Tod Stalin
+- Nikita Chrustschow
+- andere politische & wirtschaftliche Interessen
+	- bessere Beziehung mit USA
+	- besserer Lebensstandard
+- China distanziert (1960-1970)
+
+# Stagnation unter Breschnew
+
+- Grundstruktur zu wenig geändert
+- Frage der Zeit bis Sturz
+- 1964: Sturz Chrustschow
+- neuer: Leonied Breschnew
+- immer noch Verfolgungen, Unterdrückungen, ...
+- Schlussakte von Helsinki:
+	- Beziehung zwischen Osten und Westen wieder stablieren
+	- Sicherheit, Zusammenarbeit
+
+# Der Beginn des Ostblockzerfalls
+
+- Gorbatschow
+- ökonomische Probleme, Wirtschaftskrise
+- UdSSR Einmarsch Afghanistan
+- 1982: Herrschaft unter Gorbatschow
+- Reformen:
+	- Perestroika: Umgestaltung
+	- Glasnost: Pressefreiheit, Meinungsfreiheit wieder etwas besser; weniger Zensur
+- Friedensnobellpreis: 
+	- militärischen Ausgaben reduziert
+	- Bevölkerung unterstützt
+	- kommunistische System von innen zerstört
