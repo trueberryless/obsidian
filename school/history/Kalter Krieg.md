@@ -157,3 +157,17 @@ persönlichen Interessen fördern
 	- Sowjetunion setzt Dubcek unter Druck
 	- 20. August Einmarsch in Tschechoslowakei
 	- 1970 Dubcek ausgeschlossen
+
+# Letzte Eskalation
+
+- Polen
+	- Widerstände gegen Sowjetunion
+	- Preiserhöhung
+	- Kriegsrecht
+- Gewerkschaften verboten (manche im Untergrund)
+- Schah-Regime im Iran gestürzt
+- Golfkrieg
+- letztes Wettrüsten (USA Budget verdoppelt)
+- UdSSR wirtschaftlicher Kollaps
+- 1985 Entspannung -> Abrüstungsverhandlungen
+- 1990 Ende KK

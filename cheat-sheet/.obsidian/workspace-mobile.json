@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/docker theory.md",
+                "file": "Blazor/Markdown Editor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Docker/docker theory.md",
+            "file": "Blazor/Markdown Editor.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Docker/docker theory.md",
+            "file": "Blazor/Markdown Editor.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Docker/docker theory.md"
+            "file": "Blazor/Markdown Editor.md"
           }
         }
       },
@@ -137,6 +137,18 @@
     ],
     "currentTab": 0
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "678e9857209a9b8b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Docker/docker theory.md"
+  ]
 }

@@ -119,14 +119,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "server.md",
+                "file": "history/Kalter Krieg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76825f282e3ea848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Humanitäres Völkerrecht.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "server.md",
+                "file": "Humanitäres Völkerrecht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "server.md",
+                "file": "Humanitäres Völkerrecht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "server.md"
+                "file": "Humanitäres Völkerrecht.md"
               }
             }
           }
@@ -253,16 +265,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0324e80da2bfdd8",
+  "active": "76825f282e3ea848",
   "lastOpenFiles": [
     "history/Kalter Krieg.md",
-    "Kla.md",
-    "history/UdSSR nach dem Zweiten Weltkrieg.md",
+    "Humanitäres Völkerrecht.md",
     "history/USA im Kalten Krieg.md",
-    "server.md",
-    "SEW.md",
+    "history/UdSSR nach dem Zweiten Weltkrieg.md",
     "Diplomarbeit.md",
     "Matura.md",
+    "server.md",
+    "Kla.md",
+    "SEW.md",
     "INSY-Stoff.md"
   ]
 }
