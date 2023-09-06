@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "207e031e9b3f7ab7",
+    "type": "split",
+    "children": [
+      {
+        "id": "005ab9ed38e09fc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0af1ec1e69de8ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0cb4087972799ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hochspannleitung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b48eaf29e071f994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Energieerzeugung Wien.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "781c18835a3dd19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Energieerzeugung Graz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13cec3efe809bd70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Energieerzeugung Salzburg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "235d59167a595690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adapter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e8ca53cd0690dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Steckdose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c224dda6d90772e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adapter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c47e0bd33065a189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adapter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1eaffb5310c6128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adapter 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff4022043b922b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adapter 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ddcbdc626f84ff7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a53ea5a2b67fd651",
+    "type": "split",
+    "children": [
+      {
+        "id": "47b19086cde44c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e9604d3cd34cb69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cbbe644dc92e8e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "005a1742514c96aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc3f16b6a73a1f3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9469b89377fb04f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08d813b890d3d165",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fc20388b765eeb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc50e80609bba35e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7ea52ba1b8d2d571",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4ddcbdc626f84ff7",
+  "lastOpenFiles": [
+    "Energieerzeugung Wien.md",
+    "Adapter 4.md",
+    "Adapter 5.md",
+    "Hochspannleitung.md",
+    "Steckdose.md",
+    "Niederspannleitung.md",
+    "Adapter 2.md",
+    "Adapter 3.md",
+    "Adapter 6.md",
+    "Adapter 1.md",
+    "Energieerzeugung Salzburg.md",
+    "Energieerzeugung Graz.md"
+  ]
+}

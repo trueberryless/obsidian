@@ -4,93 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e83fe12f5055dede",
+        "id": "9681fb93ea7c59c1",
         "type": "tabs",
         "children": [
           {
-            "id": "24e3fe40c50e6ffe",
+            "id": "55d2275ba01210f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "history/Kalter Krieg.md",
+                "file": "Matura.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "423d2c1eb01c9f6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "history/UdSSR nach dem Zweiten Weltkrieg.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aee3555be5a946a4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
-            "id": "744c76e9d39ad3a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEW.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8906bb088b200fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INSY-Stoff.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9176715947158a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "history/UdSSR nach dem Zweiten Weltkrieg.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71f216d303df2bb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "history/USA im Kalten Krieg.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "001f16c4db4646ca",
+            "id": "169ccc28f396dc33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,45 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a0873f54c103c328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEW.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0324e80da2bfdd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "history/Kalter Krieg.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76825f282e3ea848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Humanitäres Völkerrecht.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,6 +77,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "0ea219e4d01c33c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -204,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humanitäres Völkerrecht.md",
+                "file": "Diplomarbeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Humanitäres Völkerrecht.md",
+                "file": "Diplomarbeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Humanitäres Völkerrecht.md"
+                "file": "Diplomarbeit.md"
               }
             }
           }
@@ -265,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76825f282e3ea848",
+  "active": "169ccc28f396dc33",
   "lastOpenFiles": [
+    "server.md",
+    "INSY-Stoff.md",
+    "Diplomarbeit.md",
+    "SEW.md",
+    "Matura.md",
+    "history/Humanitäres Völkerrecht.md",
     "history/Kalter Krieg.md",
-    "Humanitäres Völkerrecht.md",
     "history/USA im Kalten Krieg.md",
     "history/UdSSR nach dem Zweiten Weltkrieg.md",
-    "Diplomarbeit.md",
-    "Matura.md",
-    "server.md",
-    "Kla.md",
-    "SEW.md",
-    "INSY-Stoff.md"
+    "Kla.md"
   ]
 }

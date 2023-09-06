@@ -1,0 +1,5 @@
+[[Adapter 6]]
+[[Energieerzeugung Graz]]
+[[Energieerzeugung Wien]]
+[[Energieerzeugung Salzburg]]
+[[Adapter 1]]
